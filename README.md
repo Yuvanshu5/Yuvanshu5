@@ -10,7 +10,7 @@ I'm currently a student at IIIT Raichur (CSE, 2024–2028)<br>I'm looking to col
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Yuvanshu5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Yuvanshu5&theme=dark&hide_border=false)<br/>
-username=Yuvanshu5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
